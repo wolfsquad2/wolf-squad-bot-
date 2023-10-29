@@ -134,9 +134,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# Lockfiles
-yarn.lock
-package-lock.json
-
 # Docker
 docker-compose.override.yml

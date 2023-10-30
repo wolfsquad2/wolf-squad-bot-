@@ -60,9 +60,8 @@ module.exports = {
 	 * Lavalink configuration
 	 */
 	// Lavalink server; optional public lavalink -> https://lavalink-list.darrennathanael.com/
-	// Or host one yourself -> https://github.com/freyacodes/Lavalink 
-	//--> https://github.com/melike2d/lavalink
-	//--> https://darrennathanael.com/post/how-to-lavalink/
+	// Or host one yourself -> https://github.com/lavalink-devs/Lavalink
+	//--> https://blog.darrennathanael.com/post/how-to-lavalink/
 	/** 
 	 * Music engine to use
 	 * @type {keyof typeof import("./lib/clients/MusicClient").Engine} */
